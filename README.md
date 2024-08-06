@@ -1,0 +1,5 @@
+This passion project was birthed by a desire to be creative using Python and to share mathematics.
+
+My dissertation focused on graph colorings -- using neural networks and greedy algorithms in Python to optimize bounds for k-packings and (p,q)-colorings. Being able to visual graphs was important for my research, and I firmly believe that visualization is a cornerstone to understanding mathematics -- especially graph theory. Therefore, I want to provide an interactive way for people to learn about graph theory and develop intuition. For example, if we continue to change the number of vertices but maintain that a graph is a cycle, then what kind of properties do we notice every cycle graph has.
+
+This project is currently in its early stages. I am teaching myself how to use tkinter module which is used for graphical user interfaces (GUIs); and I'm combining it with my knowledge of the networkX module to provide graph visualizations depending on user input. I would greatly appreciate any comments or suggestions as I work to make this project accessible for individuals to learn the joy of mathematics, specificslly Graph Theory.
